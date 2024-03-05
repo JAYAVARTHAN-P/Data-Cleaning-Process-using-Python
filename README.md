@@ -229,10 +229,7 @@ df
 
 ![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/fb8391ca-d62a-4e26-a1aa-a15d27a884f9)
 
-</td>
-</tr>
-<tr>
-  <td width=50%>
+
 
 
 
