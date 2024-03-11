@@ -22,8 +22,8 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ```py
-# Developed By: R SUROTHAAMAN
-# Register Number: 212222103003
+# Developed By: JAYAVARTHAN P
+# Register Number: 212222100015
 ```
 <table>
   <tr>
